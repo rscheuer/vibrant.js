@@ -15,6 +15,7 @@ window.Swatch = class Swatch
   rgb: undefined
   population: 1
   @yiq: 0
+  ryan: 0
 
   constructor: (rgb, population) ->
     @rgb = rgb
